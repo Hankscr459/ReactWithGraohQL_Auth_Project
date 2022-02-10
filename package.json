@@ -37,7 +37,7 @@
     "html-webpack-plugin": "^2.26.0",
     "lodash": "^4.17.4",
     "mongoose": "^5.9.6",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nodemon": "*",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
